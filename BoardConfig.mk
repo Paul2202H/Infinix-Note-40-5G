@@ -159,7 +159,7 @@ TW_CUSTOM_BATTERY_POS := 790
 # Hack depends
 ALLOW_MISSING_DEPENDENCIES := true
 
- Assert
+#Assert
 TARGET_OTA_ASSERT_DEVICE := Infinix-X6852
 
 # Init
